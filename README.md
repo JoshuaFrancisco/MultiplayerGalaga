@@ -8,7 +8,7 @@ Utilizes the Agile and Scrum Methodology to conceptualize a viable product withi
 
 Unity game editor files for team project "Universal Dominion" using Photon & XAMPP.
 
-Includes UML Use Case, Class and Wireframe diagrams under folder Diagrams
+Includes UML Use Case, Class and Wireframe diagrams as jpg/png in Master or Directories in Wiki
 
 Description:
 
