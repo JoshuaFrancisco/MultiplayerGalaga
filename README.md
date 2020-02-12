@@ -1,12 +1,14 @@
 # Universal Dominion
 
-NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.
+**NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.**
 
-CSCI 150 Class Project with 4 other team members using Github for source control & Discord for Communication
+**CSCI 150 Class Project with 4 other team members using Github for source control & Discord for Communication.**
 
--Utilizes the Agile and Scrum Methodology to conceptualize a viable product within a given time frame.
--Unity game editor files for team project "Universal Dominion" using Photon & XAMPP.
--Includes UML Use Case, Class and Wireframe diagrams as jpg/png in Master or Directories in Wiki
+1.) Utilizes the Agile and Scrum Methodology to conceptualize a viable product within a given time frame.
+
+2.)Unity game editor files for team project "Universal Dominion" using Photon & XAMPP.
+
+3.)Includes UML Use Case, Class and Wireframe diagrams as jpg/png in Master or Directories in Wiki.
 
 Description:
 
