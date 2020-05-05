@@ -2,6 +2,10 @@
 
 **NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.**
 
+Running Environment:
+Unity Version 2018.4.11
+XAMPP 
+
 **CSCI 150 Class Project with 4 other team members using Github for source control & Discord for Communication.**
 
 1.) Utilizes the Agile and Scrum Methodology to conceptualize a viable product within a given time frame.
