@@ -1,6 +1,7 @@
 # Universal Dominion
 
-#### NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.**
+#### NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.
+#### NOTE: Multiplayer Functionality not correctly synced
 
 ### Running Environment:
 Unity Version 2018.4.11
